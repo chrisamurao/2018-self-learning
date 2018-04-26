@@ -21,7 +21,7 @@ Background: https://github.com/sarabander/sicp-pdf
 
 * Harvard - CS50 (EdX)
 * MIT OCW - 6.006 - Algorithms
-* Coursera - Machine Learning, Bioinformatics I (100%), Cryptography
+* Coursera - Machine Learning, Bioinformatics I (100%), Cryptography, nand2Tetris
 * Practical Javascript - Watch and Code
 * Free Code Camp - Full Stack
 * Wes Bos - Learn Node, React, ES6
