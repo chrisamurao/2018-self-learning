@@ -27,6 +27,9 @@ Background: https://github.com/sarabander/sicp-pdf
 * Wes Bos - Learn Node, React, ES6
 * First Python Notebook
 
+## Youtube Channels
+
+
 ## Books
 
 ### Software Design, Construction
@@ -42,10 +45,10 @@ Background: https://github.com/sarabander/sicp-pdf
 * http://blog.codinghorror.com
 * http://www.paulgraham.com/articles.html
 * https://krebsonsecurity.com/
-  
-
+* https://www.joelonsoftware.com/
 
 ## Frameworks, Libraries, Etc.
+
 
 ## Interested
 
@@ -54,8 +57,6 @@ Background: https://github.com/sarabander/sicp-pdf
 * https://medium.com/netflix-techblog
 * https://dev.twitch.tv/
 * https://www.twilio.com/
-
-
 
 ## Equipment
 * PC
