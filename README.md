@@ -20,17 +20,11 @@ Background: https://github.com/sarabander/sicp-pdf
 ## MOOCs
 
 * firstpythonnotebook
-
 * Harvard CS50 (EdX)
-
 * MIT OCW 6.006 - Algorithms
-
 * Coursera - Machine Learning, Bioinformatics I (100%)
-
 * Practical Javascript - Watch and Code
-
 * Free Code Camp
-
 * Wes Bos - Learn Node, React, ES6
 
 ## Books
