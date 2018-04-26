@@ -14,17 +14,20 @@ Background: https://github.com/sarabander/sicp-pdf
   
 ### Open Source
 * VLC Media Player
+
+  * Cool!
 * Mozilla Firefox
   
 ## MOOCs
 
-* firstpythonnotebook
 * Harvard CS50 (EdX)
 * MIT OCW 6.006 - Algorithms
 * Coursera - Machine Learning, Bioinformatics I (100%)
 * Practical Javascript - Watch and Code
 * Free Code Camp
 * Wes Bos - Learn Node, React, ES6
+* firstpythonnotebook
+
 
 ## Books
 * Code Complete
@@ -36,8 +39,11 @@ Background: https://github.com/sarabander/sicp-pdf
 * http://blog.codinghorror.com
 * http://www.paulgraham.com/articles.html
 * https://krebsonsecurity.com/
-        
-### Frameworks
+  
+
+
+## Frameworks, Libraries, Etc.
+
 
 ## Equipment
 * PC
