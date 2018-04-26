@@ -11,9 +11,6 @@ To Do App
 A Rex Blog
 A CMS
 
-
-Free Code Camp
-
 HackReactor SSP
 
 Wes Bos
@@ -36,12 +33,16 @@ Wes Bos
 * Coursera
 
 * Gordon Zhu Watch and Code
-
+* Free Code Camp
 
 ## Books
 Code Complete
 Eloqent Javascript
 
+## Blogs
+* www.danluu.com
+* http://blog.codinghorror.com
+* http://www.paulgraham.com/articles.html
         
 ### Frameworks
 
