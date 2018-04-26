@@ -48,6 +48,9 @@ Background: https://github.com/sarabander/sicp-pdf
 * The C Programming Language (K&R)
 * Structure and Interpretation of Computer Programs (SICP)
 
+## Data Structures/Algorithms
+* Introduction to Algorithms (CLRS)
+
 ### Command Line
 * [Unix for The Beginning Mage](http://unixmages.com/ufbm.pdf)
 
