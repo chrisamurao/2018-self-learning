@@ -3,7 +3,7 @@ I outline, describe and log my work and resources to teach myself programming an
 
 Background: https://github.com/sarabander/sicp-pdf
 
-### Projects
+## Projects
 
 #### Personal
 
@@ -20,7 +20,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * VLC Media Player
 * Mozilla Firefox
   
-### MOOCs
+## MOOCs
 
 * firstpythonnotebook
 
