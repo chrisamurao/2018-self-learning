@@ -89,3 +89,7 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ## Documentation
 * MDN
+
+## Unsorted Resources
+* https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/edit
+* All the awesome- collections :)
