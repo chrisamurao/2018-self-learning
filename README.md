@@ -1,5 +1,5 @@
 # 2018-self-learning
-I outline, describe and log my work and resources used to teach myself programming and computer science.
+I outline, describe and log my work and resources used to teach myself programming and computer science. This is not a full list, but still a decent-enough representation of what I used.
 
 Background: https://github.com/sarabander/sicp-pdf
 
@@ -10,7 +10,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * To Do App
 * A Rex Blog
 * A CMS
-* HackReactor SSP  
+* HackReactor SSP
   
 ### Open Source
 * VLC Media Player
@@ -26,7 +26,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * Free Code Camp - Full Stack
 * Wes Bos - Learn Node, React, ES6
 * First Python Notebook
-
+* https://runestone.academy/runestone/static/pythonds/index.html
 ## Youtube Channels
 
 
