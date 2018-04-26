@@ -46,7 +46,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * The C Programming Language (K&R)
 * Structure and Interpretation of Computer Programs (SICP)
 
-## Data Structures/Algorithms
+### Data Structures/Algorithms
 * Introduction to Algorithms (CLRS)
 
 ### Command Line
