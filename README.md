@@ -26,7 +26,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * Free Code Camp - Full Stack
 * Wes Bos - Learn Node, React, ES6
 * First Python Notebook
-* https://runestone.academy/runestone/static/pythonds/index.html
+* [Runestone Academy](https://runestone.academy/runestone/static/pythonds/index.html)
 
 ## Youtube Channels
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
@@ -37,8 +37,9 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ## Books
 
-### Software Design, Construction
+### Software Construction
 * Code Complete
+* Clean Code
 
 ### Coding
 * Eloqent Javascript
@@ -46,7 +47,10 @@ Background: https://github.com/sarabander/sicp-pdf
 * Structure and Interpretation of Computer Programs (SICP)
 
 ### Command Line
-* Unix for The Beginning Mage - http://unixmages.com/ufbm.pdf
+* [Unix for The Beginning Mage](http://unixmages.com/ufbm.pdf)
+
+### Security
+* Red Team Field Manual
 
 ## Blogs
 * www.danluu.com
