@@ -25,9 +25,17 @@ Wes Bos
 firstpythonnotebook
 CS50
 MIT OCW 6.006 - Algorithms
+
+## Books
+Code Complete
+
         
 ### Frameworks
 
 ## Equipment
 * PC
 * Macbook Pro Retina 15" Early 2013
+
+### Software
+* Photoshop
+* SQLite
