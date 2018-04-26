@@ -14,9 +14,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * Kaggle
   
 ### Open Source
-* VLC Media Player
-  * Cool!
-* Mozilla Firefox
+* TODO: Find some! :)
   
 ## MOOCs
 
