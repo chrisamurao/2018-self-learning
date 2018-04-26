@@ -14,25 +14,28 @@ Background: https://github.com/sarabander/sicp-pdf
   
 ### Open Source
 * VLC Media Player
-
   * Cool!
 * Mozilla Firefox
   
 ## MOOCs
 
-* Harvard CS50 (EdX)
-* MIT OCW 6.006 - Algorithms
-* Coursera - Machine Learning, Bioinformatics I (100%)
+* Harvard - CS50 (EdX)
+* MIT OCW - 6.006 - Algorithms
+* Coursera - Machine Learning, Bioinformatics I (100%), Cryptography
 * Practical Javascript - Watch and Code
-* Free Code Camp
+* Free Code Camp - Full Stack
 * Wes Bos - Learn Node, React, ES6
-* firstpythonnotebook
-
+* First Python Notebook
 
 ## Books
+
+### Software Design, Construction
 * Code Complete
+
+### Coding
 * Eloqent Javascript
 * The C Programming Language (K&R)
+* Structure and Interpretation of Computer Programs (SICP)
 
 ## Blogs
 * www.danluu.com
@@ -43,6 +46,15 @@ Background: https://github.com/sarabander/sicp-pdf
 
 
 ## Frameworks, Libraries, Etc.
+
+## Interested
+
+* AWS Cloud
+* Docker, Kubernetes
+* https://medium.com/netflix-techblog
+* https://dev.twitch.tv/
+* https://www.twilio.com/
+
 
 
 ## Equipment
