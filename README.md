@@ -40,6 +40,9 @@ Background: https://github.com/sarabander/sicp-pdf
 * The C Programming Language (K&R)
 * Structure and Interpretation of Computer Programs (SICP)
 
+### Command Line
+* Unix for The Beginning Mage - http://unixmages.com/ufbm.pdf
+
 ## Blogs
 * www.danluu.com
 * http://blog.codinghorror.com
@@ -49,6 +52,9 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ## Frameworks, Libraries, Etc.
 
+
+## Cool Educational stuff
+* https://vim-adventures.com/
 
 ## Interested
 
