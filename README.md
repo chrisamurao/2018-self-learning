@@ -11,6 +11,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * A Rex Blog
 * A CMS
 * HackReactor SSP
+* Kaggle
   
 ### Open Source
 * VLC Media Player
@@ -37,9 +38,11 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ## Books
 
-### Software Construction
+### <details><summary>Software Construction</summary>
 * Code Complete
 * Clean Code
+* Design Patterns
+  </details>
 
 ### Coding
 * Eloqent Javascript
@@ -51,6 +54,10 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ### Security
 * Red Team Field Manual
+
+### Data Science
+* Analyzing Baseball Data in R
+* 
 
 ## Blogs
 * www.danluu.com
@@ -72,6 +79,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * https://medium.com/netflix-techblog
 * https://dev.twitch.tv/
 * https://www.twilio.com/
+* Art of Electronics, 3rd Edition
 
 ## Equipment
 * PC
