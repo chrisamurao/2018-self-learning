@@ -5,15 +5,14 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ## Projects
 
-#### Personal
+### Personal
 
 * To Do App
 * A Rex Blog
 * A CMS
-
 * HackReactor SSP  
   
-#### Open Source
+### Open Source
 * VLC Media Player
 * Mozilla Firefox
   
