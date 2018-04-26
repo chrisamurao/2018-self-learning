@@ -27,8 +27,13 @@ Background: https://github.com/sarabander/sicp-pdf
 * Wes Bos - Learn Node, React, ES6
 * First Python Notebook
 * https://runestone.academy/runestone/static/pythonds/index.html
-## Youtube Channels
 
+## Youtube Channels
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Harvard CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
+* [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
 ## Books
 
