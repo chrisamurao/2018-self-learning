@@ -7,16 +7,13 @@ Background: https://github.com/sarabander/sicp-pdf
 
 #### Personal
 
-To Do App
-A Rex Blog
-A CMS
+* To Do App
+* A Rex Blog
+* A CMS
 
-HackReactor SSP
+* HackReactor SSP
 
-Wes Bos
-  Learn Node
-  React
-  ES6
+* Wes Bos - Learn Node, React, ES6
   
   
 #### Open Source
@@ -30,14 +27,17 @@ Wes Bos
 * Harvard CS50 (EdX)
 
 * MIT OCW 6.006 - Algorithms
-* Coursera
 
-* Gordon Zhu Watch and Code
+* Coursera - Machine Learning
+** Bioinformatics I
+
+* Practical Javascript - Watch and Code
+
 * Free Code Camp
 
 ## Books
-Code Complete
-Eloqent Javascript
+* Code Complete
+* Eloqent Javascript
 
 ## Blogs
 * www.danluu.com
