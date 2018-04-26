@@ -38,11 +38,10 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ## Books
 
-### <details><summary>Software Construction</summary>
+### Software Construction
 * Code Complete
 * Clean Code
 * Design Patterns
-  </details>
 
 ### Coding
 * Eloqent Javascript
@@ -57,7 +56,7 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ### Data Science
 * Analyzing Baseball Data in R
-* 
+* Introduction to Statistical Learning
 
 ## Blogs
 * www.danluu.com
@@ -67,7 +66,8 @@ Background: https://github.com/sarabander/sicp-pdf
 * https://www.joelonsoftware.com/
 
 ## Frameworks, Libraries, Etc.
-
+* [Scikit-learn](http://scikit-learn.org/stable/documentation.html)
+* [TensorFlow](https://www.tensorflow.org/get_started/)
 
 ## Cool Educational stuff
 * https://vim-adventures.com/
