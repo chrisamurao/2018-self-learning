@@ -5,6 +5,8 @@ Background: https://github.com/sarabander/sicp-pdf
 
 ### Projects
 
+#### Personal
+
 To Do App
 A Rex Blog
 A CMS
@@ -14,25 +16,31 @@ Free Code Camp
 
 HackReactor SSP
 
-Gordon Zhu Watch and Code
-
 Wes Bos
   Learn Node
   React
   ES6
   
   
+#### Open Source
+* VLC Media Player
+* Mozilla Firefox
+  
 ### MOOCs
 
 * firstpythonnotebook
 
-* CS50
+* Harvard CS50 (EdX)
 
 * MIT OCW 6.006 - Algorithms
 * Coursera
 
+* Gordon Zhu Watch and Code
+
+
 ## Books
 Code Complete
+Eloqent Javascript
 
         
 ### Frameworks
@@ -40,7 +48,3 @@ Code Complete
 ## Equipment
 * PC
 * Macbook Pro Retina 15" Early 2013
-
-### Software
-* Photoshop
-* SQLite
