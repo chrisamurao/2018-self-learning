@@ -1,6 +1,8 @@
 # 2018-self-learning
 I outline, describe and log my work and resources to teach myself programming and computer science.
 
+Background: https://github.com/sarabander/sicp-pdf
+
 ### Projects
 
 To Do App
@@ -22,9 +24,12 @@ Wes Bos
   
 ### MOOCs
 
-firstpythonnotebook
-CS50
-MIT OCW 6.006 - Algorithms
+* firstpythonnotebook
+
+* CS50
+
+* MIT OCW 6.006 - Algorithms
+* Coursera
 
 ## Books
 Code Complete
