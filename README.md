@@ -3,6 +3,9 @@ I outline, describe and log my work and resources used to teach myself programmi
 
 Background: https://github.com/sarabander/sicp-pdf
 
+## Influences
+* https://teachyourselfcs.com/
+
 ## Projects
 
 ### Personal
