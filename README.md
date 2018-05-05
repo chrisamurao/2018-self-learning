@@ -38,6 +38,13 @@ Background: https://github.com/sarabander/sicp-pdf
 * Cryptography
 * nand2Tetris
 
+### Other Web Class Platforms
+* www.udemy.com
+* www.cybrary.com
+* www.edx.com
+* www.udemy.com
+* www.udacity.com
+
 ### Code Exercises
 * www.codewars.com
 * Free Code Camp - Full Stack
