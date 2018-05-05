@@ -16,16 +16,35 @@ Background: https://github.com/sarabander/sicp-pdf
 ### Open Source
 * TODO: Find some! :)
   
-## MOOCs
+## MOOCs - Academic
 
 * Harvard - CS50 (EdX)
-* MIT OCW - 6.006 - Algorithms
-* Coursera - Machine Learning, Bioinformatics I (100%), Cryptography, nand2Tetris
-* Practical Javascript - Watch and Code
+
+### MIT OCW 
+* Introduction to Computer Science Programming in Python
+* 6.042J - Mathematics for Computer Science
+* 6.006 - Introduction to Algorithms
+* 6.009 - Fundamentals of Programming
+* 6.031 -  Elements of Software Construction
+* 6.034 - Artificial Integlligence
+* 6.045J - Automata, Computability, and Complexity
+
+### Coursera 
+* Machine Learning
+* Bioinformatics I (100%)
+* Cryptography
+* nand2Tetris
+
+### Code Exercises
+* www.codewars.com
 * Free Code Camp - Full Stack
+* Topcoder
+* [Runestone Academy](https://runestone.academy/runestone/static/pythonds/index.html)
+
+### MOOCs - Tutorial
 * Wes Bos - Learn Node, React, ES6
 * First Python Notebook
-* [Runestone Academy](https://runestone.academy/runestone/static/pythonds/index.html)
+* Practical Javascript - Watch and Code
 
 ## Youtube Channels
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
