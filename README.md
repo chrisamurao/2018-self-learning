@@ -29,7 +29,7 @@ Background: https://github.com/sarabander/sicp-pdf
 * 6.006 - Introduction to Algorithms
 * 6.009 - Fundamentals of Programming
 * 6.031 -  Elements of Software Construction
-* 6.034 - Artificial Integlligence
+* 6.034 - Artificial Intelligence
 * 6.045J - Automata, Computability, and Complexity
 
 ### Coursera 
