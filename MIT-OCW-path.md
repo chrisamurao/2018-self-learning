@@ -2,7 +2,7 @@
 
 ## Math Foundations
 * 18.06 - Linear Algebra
-* 6.042J - Mathematics for Computer Science (Discrete Math)
+* 6.042J - Mathematics for Computer Science (Discrete Math) - https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
 
 ## Course
 * 6.0001 Introduction to Computer Science Programming in Python (Available on EdX)
